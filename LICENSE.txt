@@ -1,0 +1,107 @@
+HALOVISION PROPRIETARY LICENSE v1.0
+
+Copyright (c) 2026 [Your Name / Studio Name]. All rights reserved.
+
+IMPORTANT: THIS IS A PROPRIETARY, NON-OPEN-SOURCE LICENSE. BY USING, INSTALLING,
+OR OTHERWISE ACCESSING THE SOFTWARE, YOU AGREE TO THE TERMS BELOW.
+
+"Software" refers to the HaloVision HVMIDI application, all associated binaries,
+assets, and documentation distributed with it.
+
+1. GRANT OF RIGHTS
+
+You are granted a personal, non-transferable, non-exclusive license to:
+
+  - Install and run the Software on your own devices.
+  - Use the Software to create audio, MIDI, video, or other media outputs.
+  - Use those outputs for personal, educational, or commercial purposes,
+    including releasing music, videos, or other works created with the
+    assistance of the Software.
+
+2. ATTRIBUTION REQUIREMENT
+
+Any public or commercial use of works where the Software is a significant
+creative tool (such as released tracks, videos, games, or interactive works)
+must include reasonable credit to the author, for example:
+
+  "Powered by HaloVision HVMIDI — [Your Name / Studio Name]"
+
+The credit may appear in liner notes, video descriptions, app credits screens,
+or other appropriate metadata.
+
+3. NO SOURCE CODE RIGHTS
+
+The Software is distributed in compiled/binary form only. No rights are granted
+with respect to the underlying source code. You may NOT:
+
+  - Access, request, or distribute the source code.
+  - Decompile, disassemble, reverse engineer, or otherwise attempt to derive
+    the source code, algorithms, or internal structure of the Software.
+
+4. NO MODIFICATION OR DERIVATIVE WORKS
+
+You may NOT modify, adapt, translate, patch, or create derivative works based
+on the Software itself. The Software must be used as distributed, in its
+original, unaltered form.
+
+5. REDISTRIBUTION
+
+You may NOT redistribute, resell, sublicense, or package the Software as part
+of another product or service without prior written permission from the
+copyright holder.
+
+You MAY share official download links or store pages that are controlled by
+[Your Name / Studio Name].
+
+6. OWNERSHIP
+
+The Software is licensed, not sold. All rights, title, and interest in and to
+the Software (including but not limited to any artwork, audio, code, and
+branding) remain exclusively with the copyright holder.
+
+7. THIRD-PARTY COMPONENTS
+
+The Software may include or rely on third-party libraries, tools, or assets
+(e.g., audio engines, visual frameworks). Those components are licensed under
+their respective terms, which may grant you additional rights. Such licenses
+apply only to the third-party components, not to the Software as a whole.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+The entire risk as to the quality and performance of the Software is with you.
+Should the Software prove defective, you assume the cost of all necessary
+servicing, repair, or correction.
+
+9. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF
+PROFITS, DATA, OR GOODWILL) ARISING OUT OF THE USE OR INABILITY TO USE THE
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. TERMINATION
+
+This license is effective until terminated. It will automatically terminate
+without notice if you fail to comply with any of its terms. Upon termination,
+you must cease all use of the Software and destroy any copies in your
+possession or control.
+
+11. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the laws of
+the jurisdiction of the copyright holder, without regard to its
+conflict-of-laws principles.
+
+12. CONTACT
+
+For commercial licensing, redistribution requests, or other permissions,
+contact: [your-email@example.com]
+
+---
+
+If you do not agree to these terms, do not install, use, or distribute the
+Software.
