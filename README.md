@@ -1,6 +1,8 @@
 ================================================================================
+  
   HALOVISION · HVMIDI
   Procedural Crate Digger Engine
+  
 ================================================================================
 
 Navigate a procedurally-generated 3D record store and generate unique MIDI
