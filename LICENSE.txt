@@ -1,6 +1,6 @@
 HALOVISION PROPRIETARY LICENSE v1.0
 
-Copyright (c) 2026 [Your Name / Studio Name]. All rights reserved.
+Copyright (c) 2026 Tanish Satpal. All rights reserved.
 
 IMPORTANT: THIS IS A PROPRIETARY, NON-OPEN-SOURCE LICENSE. BY USING, INSTALLING,
 OR OTHERWISE ACCESSING THE SOFTWARE, YOU AGREE TO THE TERMS BELOW.
@@ -99,7 +99,7 @@ conflict-of-laws principles.
 12. CONTACT
 
 For commercial licensing, redistribution requests, or other permissions,
-contact: [your-email@example.com]
+contact: halovision.work@gmail.com
 
 ---
 
